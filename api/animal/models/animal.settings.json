@@ -31,6 +31,15 @@
         "Male",
         "Female"
       ]
+    },
+    "animaltype": {
+      "type": "enumeration",
+      "enum": [
+        "Dog",
+        "Cat",
+        "Bird",
+        "Other"
+      ]
     }
   }
 }
